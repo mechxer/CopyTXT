@@ -10,9 +10,9 @@ Manage text, Markdown, Excel/CSV spreadsheets, JSON and PDFs — all in **one fa
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6.svg)](#)
 ![Price](https://img.shields.io/badge/price-100%25%20free-brightgreen.svg)
-[![Download](https://img.shields.io/badge/⬇%20Download-Latest-C4623E.svg)](../../releases/latest)
+[![Download](https://img.shields.io/badge/⬇%20Download-Latest-C4623E.svg)](https://copytxt.com/#download)
 
-[**⬇ Download the latest version**](../../releases/latest) · [Website](https://copytxt.com) · [Report a problem](../../issues)
+[**⬇ Download the latest version**](https://copytxt.com/#download) · [Website](https://copytxt.com) · [Report a problem](../../issues)
 
 </div>
 
@@ -56,8 +56,8 @@ It's built to feel as quick as the built-in Windows notepad, while doing far mor
 
 ## 📥 Installation
 
-1. Go to the [**Releases**](../../releases/latest) page.
-2. Download **`CopyTXT-Setup.exe`**.
+1. Go to the [**download page**](https://copytxt.com/#download) on copytxt.com.
+2. Click **Download for Windows** to get **`CopyTXT-Setup.exe`**.
 3. Run the installer (Windows 10 / 11, 64-bit) and follow the prompts.
 4. Launch CopyTXT and start writing — **100% free**, no account, no setup.
 
@@ -68,8 +68,8 @@ show a blue warning the first time you run the installer. This is expected. To c
 
 > Click **More info** → **Run anyway**.
 
-The download is safe — you can always re-download it from the official
-[Releases page](../../releases/latest) or from [copytxt.com](https://copytxt.com).
+The download is safe — you can always get it from the official
+[copytxt.com download page](https://copytxt.com/#download).
 
 ## 💻 System requirements
 
@@ -96,7 +96,7 @@ own. See [LICENSE.txt](LICENSE.txt) for details.
 
 ## 👤 Author
 
-Built by **[Mechxer](https://mechxer.net)** · [hello@copytxt.com](mailto:hello@copytxt.com)
+Built by **[Mechxer](https://mechxer.net)** · [hello@copytxt.com](mailto:hello@mechxer.net)
 
 <div align="center">
 <sub>If CopyTXT is useful to you, consider giving the repo a ⭐ — it really helps others find it!</sub>
